@@ -1,0 +1,31 @@
+body{
+    background-image: url(https://i.postimg.cc/xC7Dw1XG/3.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.box{
+    list-style-type: none;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    font-family: cursive;
+    font-size: 30px;
+    color:white;
+    margin: 30px;
+}
+
+.text >li >a{
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+    margin-right: 40px;
+}
+.text{
+    display: flex;
+    list-style-type: none;
+
+
+}
